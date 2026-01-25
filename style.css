@@ -15,3 +15,7 @@ h1 {
     text-align: center; /* Puts the heading in the middle */
     border: 2px solid orange; /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
+
+h5 { 
+    color: rgb (255, 255, 255)
+}
